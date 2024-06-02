@@ -1,0 +1,1 @@
+This project analyses different reviews and predicts if the given feedback by the customer is  a positive, neutral or a negative feedback. This helps the businesses to improve their products.
